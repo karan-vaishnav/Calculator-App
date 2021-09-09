@@ -7,7 +7,7 @@ This is a solution to the [Calculator app challenge on Frontend Mentor](https://
 ### Links
 
 - Solution URL: https://github.com/karan-vaishnav/Calculator-App.git
-- Live Site URL: http://127.0.0.1:5501/
+- Live Site URL: https://theme-calc.netlify.app
 
 ## My process
 
